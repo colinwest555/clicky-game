@@ -1,5 +1,4 @@
 import React, {Component} from "react";
-import { Navbar, Container } from 'react-bootstrap';
 import NavBar from "./NavBar";
 import Instructions from "./Instructions";
 import GameBoard from "./GameBoard";
